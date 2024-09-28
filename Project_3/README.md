@@ -44,7 +44,7 @@ If you want to clone **only** the **US States Game** project from this repositor
    git clone --no-checkout https://github.com/jawwadkhan777/Data-Science-Projects.git
    cd Data-Science-Projects
    git sparse-checkout init --cone
-   git sparse-checkout set Project_3/US_States_Game
+   git sparse-checkout set Project_3
    git checkout main
 
 ## Support and Feedback 
